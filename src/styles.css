@@ -64,3 +64,17 @@ div.container6 {
 div.container6 p {
   margin: 20;
 }
+.column {
+  float: left;
+}
+
+.left,
+.right {
+  width: 25%;
+}
+
+.middle {
+  width: 50%;
+}
+.flex-container {
+  display: flex;

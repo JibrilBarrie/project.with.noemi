@@ -12,12 +12,6 @@ const FoodViolations = () => {
         processes in place to ensure that stores maintain the changes past
         one-month.
       </h3>
-
-      <iframe
-        src="https://www.google.com/maps/d/edit?hl=en&hl=en&mid=1_B_sWbK-fkBJYJu5UNE5Fr1TvwCtboJx&ll=40.744227250200126%2C-73.9595686615258&z=11"
-        width="700"
-        height="500"
-      />
     </div>
   );
 };
